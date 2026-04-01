@@ -1,0 +1,15 @@
+the OT score for dataset:iNaturalist: best_alpha:0.3, best_beta:0.7, fpr:0.0763,  auroc:0.9819
+the OT score for dataset:SUN: best_alpha:0.2, best_beta:0.8, fpr:0.1587,  auroc:0.9621
+the OT score for dataset:places365: best_alpha:0.0, best_beta:1.0, fpr:0.2433,  auroc:0.9376
+the OT score for dataset:dtd: best_alpha:0.3, best_beta:0.7, fpr:0.4590,  auroc:0.8944
+mean_fpr:0.2343, mean_auroc:0.9440
+the OT score for dataset:iNaturalist, best_alpha:0.3, best_beta:0.7, fpr:0.0763,  auroc:0.9819
+the OT score for dataset:SUN, best_alpha:0.2, best_beta:0.8, fpr:0.1587,  auroc:0.9621
+the OT score for dataset:places365, best_alpha:0.0, best_beta:1.0, fpr:0.2433,  auroc:0.9376
+the OT score for dataset:dtd, best_alpha:0.3, best_beta:0.7, fpr:0.4590,  auroc:0.8944
+mean_fpr:0.2343, mean_auroc:0.9440
+the OT score for dataset:iNaturalist, best_alpha:0.3, best_beta:0.7, fpr:0.0763,  auroc:0.9819
+the OT score for dataset:SUN, best_alpha:0.2, best_beta:0.8, fpr:0.1587,  auroc:0.9621
+the OT score for dataset:places365, best_alpha:0.0, best_beta:1.0, fpr:0.2433,  auroc:0.9376
+the OT score for dataset:dtd, best_alpha:0.3, best_beta:0.7, fpr:0.4590,  auroc:0.8944
+mean_fpr:0.2343, mean_auroc:0.9440
