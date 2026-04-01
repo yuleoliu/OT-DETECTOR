@@ -11,10 +11,11 @@ Out-of-distribution (OOD) detection is crucial for ensuring the reliability and 
 ![Framework](figs/framework.pdf)
 
 ### Installation
+```python
 conda create -n ot-detector python=3.8
 conda activate ot-detector
 pip install -r requirements.txt
-
+```
 ### Data Preparation
 
 please refer to [Huang et al. 2021](https://github.com/deeplearning-wisc/large_scale_ood#out-of-distribution-dataset) for the preparation of the following datasets:Imagenet, iNaturalist, SUN, Places, Texture.
